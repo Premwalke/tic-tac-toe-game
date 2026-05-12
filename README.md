@@ -48,6 +48,7 @@ If all positions are filled without a winner, the game ends in a draw.
 
 
 Algorithm:
+
 Step 1: Start the program
 Step 2: Initialize the game board
 Step 3: Display the board
